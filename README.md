@@ -95,12 +95,4 @@ This indicates a **large and diversified lending base** with moderate interest r
 
 This dashboard effectively supports **data-driven lending decisions** by identifying growth trends, repayment patterns, customer risk segments, and regional performance. It can help banks **optimize credit policies, reduce defaults, and improve portfolio health**.
 
----
 
-If you want, I can also:
-✔️ Convert this into **resume-ready project points**
-✔️ Create a **2-minute presentation script**
-✔️ Add **KPIs explanation slide-wise**
-✔️ Write a **strong project description for interviews**
-
-Just tell me 👍
