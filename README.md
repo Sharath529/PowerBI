@@ -4,101 +4,103 @@
 
 # Objective of the Project
 
-The objective of this report is to analyze employee attrition, identify the key factors contributing to workforce turnover, and provide actionable insights to help organizations improve employee retention and strengthen workforce stability.
+Designed an interactive Bank Loan Analysis Dashboard to track loan growth, borrower risk, repayment status, and regional performance, enabling improved credit risk assessment and strategic lending decisions.
+
 
 # Snapshot of Dashboard (Power BI Service)
 
+<img width="1415" height="729" alt="Screenshot 2025-12-27 143009" src="https://github.com/user-attachments/assets/5e5cf879-f979-4c26-a811-2a52f105de4f" />
 
 
 
-# Overview:
-### Total Employees:
+Here’s a **clear, presentation-ready overview analysis** of your **Bank Loan Analysis Dashboard**, based on the visuals shown:
 
-Provides a complete view of the organization’s workforce size and helps establish a baseline for analyzing attrition.
+---
 
-### Employees Quit:
+## 📊 **Bank Loan Analysis Dashboard – Overview Analysis**
 
-Indicates the total number of employees who left the organization during the given period.
+The dashboard provides a comprehensive view of the bank’s loan portfolio across **customers, loan amounts, interest rates, repayment behavior, and risk indicators** over the years **2007–2011**.
 
-### Attrition Rate:
+* **Total Customers:** 39,717
+* **Total Loan Amount:** 446M
+* **Average Interest Rate:** 12.02%
+* **Total Revolving Balance:** 532M
+* **Average Debt-to-Income (DTI):** 13.32
 
-A key metric that reflects the overall percentage of employees lost, helping assess the severity of turnover.
+This indicates a **large and diversified lending base** with moderate interest rates and controlled borrower risk.
 
-### Active Employees:
+---
 
-Shows the number of remaining employees, essential for evaluating workforce strength and resource planning.
+### 📈 **Year-wise Loan Growth**
 
-### Average Age:
+* Loan amounts show **strong upward growth** from **2M in 2007** to **261M in 2011**.
+* The sharp increase after 2009 indicates **expansion in lending activity** and growing customer demand.
+* 2011 marks the **peak lending year**, suggesting aggressive loan disbursement.
 
-Provides insight into workforce demographics, helping identify age groups more prone to attrition.
+---
 
-# Attrition Analysis:
-### Attrition by Department:
+### 🧩 **Grade & Subgrade-wise Revolving Balance**
 
-Highlights which departments experience the highest turnover, enabling leaders to identify areas with potential workload, culture, or management challenges.
+* **Grade B and C loans** contribute the **highest revolving balances**, indicating higher credit utilization.
+* Lower grades (D, E, F) hold smaller balances but may represent **higher risk exposure**.
+* This helps identify **which credit grades need closer monitoring**.
 
-### Attrition by Age Group & Gender:
+---
 
-Breaks down attrition trends across different age bands and gender groups, revealing demographic segments with higher attrition risk.
+### 🌍 **State-wise & Month-wise Loan Status**
 
-### Attrition by Job Role / Work-Life Balance:
+* Most loans fall under **Fully Paid** and **Current** categories.
+* A few states show spikes in **Charged-Off loans**, highlighting **regional risk concentration**.
+* Seasonal variations suggest **certain months have higher repayment or default activity**.
 
-Compares work-life balance scores across various job roles, helping identify positions where excessive workload or job pressure may be contributing to attrition.
+---
 
-### Attrition by Education:
+### 🏠 **Home Ownership vs Last Payment Status**
 
-Analyzes turnover based on educational backgrounds, indicating whether certain academic fields face higher external opportunities or lower job alignment.
+* Majority of customers belong to **Mortgage** and **Rent** categories.
+* Mortgage holders show **better repayment behavior**, while rented and “none” categories may carry slightly higher risk.
+* This insight helps in **credit policy refinement**.
 
-### Overall Attrition by Age Group:
+---
 
-Provides a summarized view of age groups contributing most significantly to attrition, supporting targeted retention strategies for specific career stages.
+### 🎯 **Loan Amount by Purpose**
 
-# Employee Experience Analysis:
-### Job Satisfaction:
+* Highest loan amounts are for:
 
-Measures how satisfied employees are with their roles, work environment, and leadership — a crucial factor influencing attrition.
+  * **Debt Consolidation**
+  * **Credit Cards**
+  * **Home Improvement**
+* Indicates customers mainly borrow to **manage existing debt**, rather than new consumption.
 
-### Work-Life Balance:
+---
 
-Evaluates employee perception of work-life balance across job roles, helping uncover positions that may require policy or workload adjustments.
+### ✅ **Verified vs Non-Verified Payments**
 
-### Engagement Indicators:
+* **Verified customers contribute ~59% of total payments**, showing stronger repayment reliability.
+* Non-verified customers account for ~41%, suggesting **verification improves repayment confidence**.
+* Reinforces the importance of **income and document verification**.
 
-Includes metrics related to performance, workplace involvement, and overall emotional connection to the organization.
+---
 
-# Employee Demographics & Behavioral Insights:
-### Department & Role Segmentation:
+## 🔍 **Key Business Insights**
 
-Segmenting employees by department and job role helps identify trends specific to functional areas.
+* Loan demand and portfolio size are **growing rapidly over time**
+* **Grade B & C customers** are key contributors to balances
+* **Verification status strongly correlates with repayment performance**
+* Certain **states and borrower segments need risk monitoring**
 
-### Age Distribution:
+---
 
-Understanding how age groups contribute to attrition supports long-term workforce planning.
+### 🧾 **Conclusion**
 
-### Gender Patterns:
+This dashboard effectively supports **data-driven lending decisions** by identifying growth trends, repayment patterns, customer risk segments, and regional performance. It can help banks **optimize credit policies, reduce defaults, and improve portfolio health**.
 
-Identifying gender-based attrition trends can help ensure workplace equality and address potential bias or culture-related issues.
+---
 
-# Actionable Insights for the Organization:
-### Target High-Risk Groups:
+If you want, I can also:
+✔️ Convert this into **resume-ready project points**
+✔️ Create a **2-minute presentation script**
+✔️ Add **KPIs explanation slide-wise**
+✔️ Write a **strong project description for interviews**
 
-Use demographic and departmental breakdowns to identify employees at higher risk of attrition and implement targeted interventions.
-
-### Improve Workplace Experience:
-
-Enhance job satisfaction, streamline workloads, and address employee concerns to create a more supportive environment.
-
-### Strengthen Leadership & Management:
-
-Departments with higher attrition may require leadership training, process improvements, or cultural transformation.
-
-### Optimize Employee Engagement Strategies:
-
-Introduce career development programs, mentorship initiatives, or skill-enhancement opportunities to improve retention.
-
-### Monitor Attrition Trends:
-
-Continuously track attrition metrics and evaluate the impact of implemented retention strategies over time.
-
-
-## By leveraging these insights, businesses can reduce employee attrition, enhance workforce satisfaction, and build a more sustainable and productive workplace.
+Just tell me 👍
