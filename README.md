@@ -1,4 +1,4 @@
-# Attrition Analysis Dashboard
+# Bankloan Analysis Dashboard
 
 ### Dashboard Link :https://app.powerbi.com/links/FHWn1kSp1L?ctid=9c3dce31-8bf0-4571-94dd-11a58083cdc2&pbi_source=linkShare
 
